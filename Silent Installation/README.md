@@ -9,6 +9,8 @@ MSI: MS Edge, Firefox, Chrome
 <br>
 EXE: Notepad++, Dialpad, Teamviewer, Office 365, Acrobat DC	
 
+Then it should remove selected (most of) built in Microsoft applications.
+
 File Structures:
 	<br>GWScript.ps1, run.bat in root
 	<br>create a new folder called "installers" with previously mentioned installers
