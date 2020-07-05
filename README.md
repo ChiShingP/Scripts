@@ -1,3 +1,4 @@
+Created to run a silent installation for multiple programs.
 Run 'run.bat' as an admin to initiate
 
 'run.bat' calls 'GWScript.ps1' with an Administrator Powershell
